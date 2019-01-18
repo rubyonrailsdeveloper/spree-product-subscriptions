@@ -1,5 +1,6 @@
-//= require jquery-ui/datepicker
-
+/*
+*= require jquery-ui/datepicker
+*/
 $(function() {
   $('.datepicker').datepicker({
     dateFormat: "dd-mm-yy",
